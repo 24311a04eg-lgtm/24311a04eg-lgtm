@@ -143,8 +143,8 @@ Some repositories are forked learning resources. The original projects above are
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=24311a04eg-lgtm&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Kota Karthik's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24311a04eg-lgtm&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=24311a04eg-lgtm&theme=tokyonight" alt="Kota Karthik's GitHub statistics" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=24311a04eg-lgtm&theme=tokyonight" alt="Most used languages" />
 
 <br />
 
@@ -152,16 +152,23 @@ Some repositories are forked learning resources. The original projects above are
 
 </div>
 
-### Achievements
+### Achievements & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=24311a04eg-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" width="95%" />
+        <a href="https://github.com/24311a04eg-lgtm?tab=achievements">
+                <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-2E9EF7?style=for-the-badge&logo=github" alt="Pull Shark achievement" />
+        </a>
+        <a href="https://github.com/24311a04eg-lgtm?tab=achievements">
+                <img src="https://img.shields.io/badge/Quickdraw-Achievement-0F766E?style=for-the-badge&logo=github" alt="Quickdraw achievement" />
+        </a>
 </div>
 
 ### Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24311a04eg-lgtm&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="95%" />
+        <a href="https://github.com/24311a04eg-lgtm?tab=overview">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=24311a04eg-lgtm&theme=tokyonight" alt="Kota Karthik's GitHub contribution activity" width="95%" />
+        </a>
 </div>
 
 ---
